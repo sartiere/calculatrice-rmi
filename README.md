@@ -31,4 +31,5 @@ L'interface graphique est réalisée avec **JavaFX**.
 3. Cliquer sur "CONNECTER"
 
 ## 👤 Auteur
-Diarra Sartière Fatim
+DIARRA SARTIERE FATIM
+SOFFO MOUSSO CHRYS ANO
